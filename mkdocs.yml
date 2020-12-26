@@ -1,0 +1,6 @@
+site_name: AdEx Docs
+nav:
+    - Home: index.md
+    - About: about.md
+    - Readme: ugo.md
+theme: readthedocs
