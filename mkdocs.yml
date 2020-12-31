@@ -1,5 +1,5 @@
 site_name: AdEx Docs
 nav:
     - Home: index.md
-    - Documentation: ugo.md
+    - Readme: ugo.md
 theme: readthedocs
